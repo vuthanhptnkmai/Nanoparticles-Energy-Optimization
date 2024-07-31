@@ -4,6 +4,8 @@
 
 This project, conducted during the Winter Semester of 2022/2023, focuses on the energy minimization of nanoparticles using numerical methods and simulations. The primary goal was to study the Minima of Potential Energy using the Lennard-Jones Potential Function and perform stochastic simulations to determine the global potential energy of nanoparticle clusters.
 
+For more detailed information about the project, please refer to [project_overview.pdf](project_overview.pdf).
+
 ## Keywords
 
 - Numerical Approach
