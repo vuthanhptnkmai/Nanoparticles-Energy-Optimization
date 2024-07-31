@@ -15,8 +15,11 @@ Conjugate Gradient Descent
 Line Search Method
 Stochastic Simulations
 Introduction
-The main objective of this project is to find the minimum potential energy configuration for a nanoparticle, ensuring that it conforms to a stable structure. The process begins by placing atoms within a three-dimensional cubic lattice, where the size of the cube,
-L, is proportional to the number of atoms, N.
+The main objective of this project is to find the minimum potential energy configuration for a nanoparticle, ensuring that it conforms to a stable structure. The process begins by placing atoms within a three-dimensional cubic lattice, where the size of the cube, 
+�
+L, is proportional to the number of atoms, 
+�
+N.
 
 To accomplish the energy minimization, we implemented two key functions:
 
